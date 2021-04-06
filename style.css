@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&display=swap');
+
+
+
+
+
+.menu{
+    background-image: linear-gradient(90deg, #5e0009 40%,rgb(182, 0, 0) 80% , #ff2525 90%);
+    font-size: 40px;
+  position: relative;
+    width: 5475px;
+    height: 1800px;
+   border-radius: 0px 0px  0px 400px;
+   z-index: -1;
+   
+}
+.menu p{
+    position: relative;
+    top: -1100px;
+   margin-left: 1800px;
+    font-size: 180px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0px 0px 40px  rgb(255, 255, 255);
+}
+.menu p2{
+    position: relative;
+    top: -1100px;
+   margin-left: 2200px;
+    font-size: 110px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0px 0px 40px  rgb(255, 255, 255);
+}
+.menu p3{
+    position: relative;
+    top: -1100px;
+   margin-left: 2500px;
+    font-size: 110px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0px 0px 40px  rgb(255, 255, 255);
+}
+.menu div{
+    background-image: url(OILI651.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: 10% -10% ;
+    position: relative;
+    top: -150px;
+    width: 1600px;
+    height: 1600px;
+    
+   
+}
+.menu  button{
+   
+    position: relative;
+    left: 900px;
+    top: 200px;
+    margin-left: 200px;
+    font-family: 'Overpass', sans-serif;
+    font-size: 66px;
+    font-weight: bold;
+    color: white;
+}
+.menu  button{
+  border: 0px;
+   background-color:transparent;
+  
+   
+ 
+}
+#buton{
+    color: #ffffff;
+    background-color: rgb(4, 0, 255);
+    background-size: 200px;
+    padding: 50px 110px ;
+    border-radius: 90px;
+    left: 790px;
+}
+.menu ul{
+    display: inline;
+    align-items: left;
+    text-align: left;
+   position: relative;
+   padding-left: 1600px;
+ top: 200px;
+  
+}
+
+.menu ul li{
+    font-family: 'Overpass', sans-serif;
+    display: inline;
+    font-size: 66px;
+    padding: 30px;
+    color: rgba(255, 255, 255, 0.993);
+    font-weight: 600;
+}
+.menu ul li img{
+    width: 40px;
+    margin-left: 10px;
+}
